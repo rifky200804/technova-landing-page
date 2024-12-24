@@ -326,11 +326,11 @@
 
 
                     <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-                        <img src="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Product 2</h4>
+                            <h4>App Design 1</h4>
                             <p>Lorem ipsum, dolor sit</p>
-                            <a href="assets/img/masonry-portfolio/masonry-portfolio-5.jpg" title="Product 2"
+                            <a href="assets/img/portfolio/app-1.jpg" title="Product 2"
                                 data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                     class="bi bi-zoom-in"></i></a>
                             <a href="index.php?detail=true" title="More Details" class="details-link"><i
@@ -341,11 +341,11 @@
 
 
                     <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
-                        <img src="assets/img/masonry-portfolio/masonry-portfolio-7.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 3</h4>
+                            <h4>Branding 1</h4>
                             <p>Lorem ipsum, dolor sit</p>
-                            <a href="assets/img/masonry-portfolio/masonry-portfolio-7.jpg" title="App 3"
+                            <a href="assets/img/portfolio/branding-1.jpg" title="Branding 3"
                                 data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                     class="bi bi-zoom-in"></i></a>
                             <a href="index.php?detail=true" title="More Details" class="details-link"><i
@@ -354,11 +354,11 @@
                     </div><!-- End Portfolio Item -->
 
                     <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-                        <img src="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Branding 3</h4>
+                            <h4>Books 1</h4>
                             <p>Lorem ipsum, dolor sit</p>
-                            <a href="assets/img/masonry-portfolio/masonry-portfolio-9.jpg" title="Branding 2"
+                            <a href="assets/img/portfolio/books-1.jpg" title="Branding 2"
                                 data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                     class="bi bi-zoom-in"></i></a>
                             <a href="index.php?detail=true" title="More Details" class="details-link"><i

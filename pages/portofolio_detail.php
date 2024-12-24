@@ -51,9 +51,15 @@
                             <div class="swiper-slide">
                                 <img src="assets/img/portfolio/branding-1.jpg" alt="">
                             </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/portfolio/landingPage2.jpeg" alt="">
+                            </div>
 
                             <div class="swiper-slide">
                                 <img src="assets/img/portfolio/books-1.jpg" alt="">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="assets/img/portfolio/landingPage3.png" alt="">
                             </div>
 
                         </div>
